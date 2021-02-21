@@ -15,6 +15,5 @@ the section | subject
 section one | [Markdown](https://aymannaif.github.io/reading-notes/markdown)
 section two | [Growth Mindset](https://aymannaif.github.io/reading-notes/growth-mindset)
 section three | [Git](https://aymannaif.github.io/reading-notes/git)
------------- | -------------
 Section Four | [Github Pages](https://aymannaif.github.io/reading-notes/github-pages)
 Section Five | [Ayman Naif](https://aymannaif.github.io/reading-notes/AymanNaif)
