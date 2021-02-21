@@ -26,7 +26,7 @@ you can add order list by (1.) or unorder list by (*)
 
 # 4. Images
 you can add an image by
-![alt text](Image Address)
+![alt text] (Image Address)
 
 # 5. More feature 
 
