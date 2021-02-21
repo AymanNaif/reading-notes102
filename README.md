@@ -52,6 +52,4 @@ I like to say that I have many skills and that make me learn and earn more that 
 
  
 
-Here's my GitHub portofolio URL ::
-
-https://github.com/AymanNaif
+Here's my GitHub [Portofolio](https://github.com/AymanNaif)
