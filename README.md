@@ -24,11 +24,11 @@ you can add links by **Markdown** by using [text] (URL)
 ## 3. Lists
 you can add order list by (1.) or unorder list by (*)
 
-# 4. Images
+## 4. Images
 you can add an image by
 ![alt text] (Image Address)
 
-# 5. More feature 
+## 5. More feature 
 
 you can check out more of markdown code and styling on [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
