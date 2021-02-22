@@ -17,3 +17,5 @@ section two | [Growth Mindset](https://aymannaif.github.io/reading-notes/growth-
 section three | [Git](https://aymannaif.github.io/reading-notes/git)
 Section Four | [Github Pages](https://aymannaif.github.io/reading-notes/github-pages)
 Section Five | [Ayman Naif](https://aymannaif.github.io/reading-notes/AymanNaif)
+Section six  | [ HTML Summaries](https://aymannaif.github.io/reading-notes/HTML-S)
+Section seven  | [ CSS Summaries](https://aymannaif.github.io/reading-notes/Css-S)
