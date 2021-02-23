@@ -19,3 +19,4 @@ Section Four | [Github Pages](https://aymannaif.github.io/reading-notes/github-p
 Section Five | [Ayman Naif](https://aymannaif.github.io/reading-notes/AymanNaif)
 Section six  | [ HTML Summaries](https://aymannaif.github.io/reading-notes/HTML-S)
 Section seven  | [ CSS Summaries](https://aymannaif.github.io/reading-notes/Css-S)
+Section eight  | [ Javascript-S](https://aymannaif.github.io/reading-notes/Javascript-S)
