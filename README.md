@@ -21,3 +21,5 @@ Section six  | [ HTML Summaries](https://aymannaif.github.io/reading-notes/HTML-
 Section seven  | [ CSS Summaries](https://aymannaif.github.io/reading-notes/Css-S)
 Section eight  | [ Javascript](https://aymannaif.github.io/reading-notes/Javascript-S)
 Section nine | [ Computers Coding](https://aymannaif.github.io/reading-notes/Computers-coding)
+Section ten | [JavaScript & jQuery](https://aymannaif.github.io/reading-notes/JavaScriptAndjQuery)
+Section eleven | [Operators and Loops](https://aymannaif.github.io/reading-notes/OperatorsAndLoops)
