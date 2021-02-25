@@ -9,7 +9,7 @@
 
 
 ### Less than (<) ” returns true if the value on the left is less than the value on the right, otherwise it returns false.
-### Greater than (>) â€” returns true if the value on the left is greater than the value on the right, otherwise it returns false.
+### Greater than (>) ” returns true if the value on the left is greater than the value on the right, otherwise it returns false.
 ### Less than or equal to (<=) ” returns true if the value on the left is less than or equal to the value on the right, otherwise it returns false.
 ### Greater than or equal to (>=) ” returns true if the value on the left is greater than or equal to the value on the right, otherwise it returns false.
 ### Equal to (===) ” returns true if the value on the left is equal to the value on the right, otherwise it returns false.
